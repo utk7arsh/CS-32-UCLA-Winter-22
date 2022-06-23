@@ -4,7 +4,7 @@ Soulutions to Hommeworks and Projects of Computer Science 32 taken in Winter 202
 
 Homework 
 +----------+----------+
-| 1        | 98       |
+| 1        | 100      |
 +----------+----------+
 | 2        | 100      |
 +----------+----------+
