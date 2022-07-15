@@ -4,8 +4,9 @@ Soulutions to Hommeworks and Projects of Computer Science 32 taken in Winter 202
 
 Homework 
 
-| 1             | 98              | 
+| No. | Score
 | ------------- | --------------- | 
+| 1             | 98              | 
 | 2             | 100             |
 | 3             | 100             |
 | 4             | 100             |
@@ -13,8 +14,9 @@ Homework
 
 Projects
 
+| No. | Score
+| ------------- | --------------- | 
 | 1        | 100      |
-|---------|----------|
 | 2        | 99       |
 | 3        | 100      |
 
